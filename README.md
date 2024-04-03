@@ -61,7 +61,7 @@ This is a simple static E-commerce website for showcasing and selling a variety 
 
 ### :globe_with_meridians: Live Demo
 
-  - [View Demo](http:link "Live View")
+  - [View Demo](https://baharak-eslamiii.github.io/GadgetOnlineShop/)
   
   
 <!-- DEVELOPMENT INFORMATION -->
